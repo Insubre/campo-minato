@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mint/Documenti/programmi/c/programmi/minesweeper/colore.h
+
+/home/mint/Documenti/programmi/c/programmi/minesweeper/file.c
+
+/home/mint/Documenti/programmi/c/programmi/minesweeper/file2.c
+
+/home/mint/Documenti/programmi/c/programmi/minesweeper/gioco.c
+
+/home/mint/Documenti/programmi/c/programmi/minesweeper/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+unistd.h
+-
+string.h
+-
+time.h
+-
+colore.h
+/home/mint/Documenti/programmi/c/programmi/minesweeper/colore.h
+schermata.h
+/home/mint/Documenti/programmi/c/programmi/minesweeper/schermata.h
+file.c
+/home/mint/Documenti/programmi/c/programmi/minesweeper/file.c
+file2.c
+/home/mint/Documenti/programmi/c/programmi/minesweeper/file2.c
+gioco.c
+/home/mint/Documenti/programmi/c/programmi/minesweeper/gioco.c
+
+/home/mint/Documenti/programmi/c/programmi/minesweeper/schermata.h
+

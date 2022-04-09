@@ -1,0 +1,1 @@
+/usr/bin/gcc    CMakeFiles/minesweeper.dir/main.c.o  -o minesweeper 
